@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T07:38:53.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" version="21.3.8" etag="x0RjVZYNFWVBiOfXGUaC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T07:46:04.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="5tlukjXvGews9Ss9lTU9" version="21.3.8" type="github">
   <diagram name="第 1 页" id="DHPTtGvJahocfKdbbxIG">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ohoGjBn0Uxjc92WllkWH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="355" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ohoGjBn0Uxjc92WllkWH-18" value="虚拟机栈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="325" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ohoGjBn0Uxjc92WllkWH-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ohoGjBn0Uxjc92WllkWH-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ohoGjBn0Uxjc92WllkWH-22" value="堆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
